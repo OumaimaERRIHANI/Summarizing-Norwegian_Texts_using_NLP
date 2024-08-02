@@ -1,0 +1,1 @@
+# Summarizing-Norwegian_Texts_using_NLP

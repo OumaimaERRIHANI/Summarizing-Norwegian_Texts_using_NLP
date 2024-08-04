@@ -3,6 +3,7 @@
 ## Introduction
 The goal of this project is to develop a text summarization model for Norwegian texts using Natural Language Processing (NLP) techniques. This involves contextualizing and extracting precise information while addressing the linguistic richness unique to the Norwegian language.
 
+The steps followed are :
 
 ---------
 
